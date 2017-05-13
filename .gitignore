@@ -3,3 +3,4 @@ app
 .nyc_output
 .vscode
 coverage
+index-run.js
