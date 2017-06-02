@@ -1,4 +1,4 @@
-# A list of Awesome Babel plugins Usage
+# A list of Awesome Babel plugins Boilerplate
 
 
 ## Plugin List
